@@ -491,8 +491,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?security=&fp=chro
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.96:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2035
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20106
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2034
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2033
@@ -502,4 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20102
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20101
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2027
 
