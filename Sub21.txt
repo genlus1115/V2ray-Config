@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bcf8c65a-ed44-4b40-b7f3-752115b20662@proxysudochannel.ddns.net:8080?type=tcp&security=reality&fp=safari&pbk=blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk&sni=instructure.com&flow=xtls-rprx-vision&sid=b28a0dd8&spx=%2Fabout#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxysudo%20%5B2%5D
-vless://bcf8c65a-ed44-4b40-b7f3-752115b20662@proxysudochannel.ddns.net:8080?security=reality&encryption=none&pbk=blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk&headerType=none&fp=safari&spx=%2Fabout&type=tcp&flow=xtls-rprx-vision&sni=instructure.com&sid=b28a0dd8#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxysudo%20%5B3%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B140%5D
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B141%5D
 vless://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B142%5D
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#%3E%3E%40v2ray1_ng%3A%3ANL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40v2nodes%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40ultrasurf_12%3A%3AXX
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%3E%3E%40oneclickvpnkeys%3A%3AGB
