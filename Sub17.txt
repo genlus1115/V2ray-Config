@@ -130,6 +130,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880/?type=grpc&encryption=none#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya@V2rayBaaz
@@ -176,7 +177,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--15
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.63:8880?mode=gun&security=none&encryption=none&type=grpc#MTMVPN 30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.63:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇩🇪[Telegram:NetifyVpn]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net#@planb_proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.37:8880?mode=gun&security=&encryption=none&type=grpc#@V2ray_confing33
@@ -248,7 +248,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=&encryption=none&type=grpc#MCI-@V2ray_Alpha--17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@AZARBAYJAB1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2rayAlpha--16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--26
@@ -374,7 +373,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.62:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.62:8880?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#@TEHRANARGO 🌕 اینجا باشی قطع نمیشی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#🇫🇷@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--10
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&securit
 vless://df574996-5eb5-4aab-a355-cb3573a89fe9@masterserver1.byte-server.ir:1331?encryption=none&type=xhttp&mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 All Operator @MaSTeRSeRVeR1
 vless://df6e3f57-c3d9-4f30-8a30-de33928dd638@65.109.220.74:35270?type=ws&encryption=none&path=/Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------Telegram--@armanstore2----------&host=&security=none#@armanstore2-کانال تلگرامی
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#🇨🇭 | @EVAY_VPN
+vless://dfa7106c-37a4-461d-8c76-e6dfc0453e95@116.203.87.49:5050?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://dfa7106c-37a4-461d-8c76-e6dfc0453e95@116.203.87.49:5050?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#کانال تلگرام: @skypro_vpn

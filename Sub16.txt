@@ -41,9 +41,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.93:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&authority=/?sunflowerplatoJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&type=grpc#MCI-@V2rayAlpha--12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&type=grpc#JOIN ➪@FILTERK0SH
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#@MARAMBASHI 💜
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--10
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=none&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@AZARBAYJAB1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#@HiByeVPNNBot 👈🌿💎
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--14
