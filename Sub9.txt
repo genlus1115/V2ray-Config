@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#All-@IRAN_V2RAY1
 vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#All-@V2ray_Alpha--40
 vless://5c4f6ca8-b824-48de-8f33-ec3c9eda1c5e@2na9noed62ec.dopraxrocks.com:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayNG3
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🧡
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&path=/#@Daily_Configs
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&encryption=none&type=ws&sni=vless.muzheng.top#🇩🇪[Telegram:NetifyVpn]
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#@meli_proxyy

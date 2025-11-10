@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=none&encryption=none&headerType=none&type=tcp#All-@V2ray_Alpha--7
 vless://918e7a39-55ed-4e02-bfbd-200fe05f4f67@91.107.245.187:443?security=reality&encryption=none&pbk=ef-D_vj3646C74h-JApFZBSAT3iB4uxqIqIfOsWRbRI&fp=chrome&spx=/&type=grpc&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&sni=preview.redd.it&sid=e7effd#Reality21 |@SpringHQ
 vless://91b41e65-a104-4fde-906b-4ed6bbb18424@104.19.189.152:443?path=Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=PaGeS.DEV#@V2rayNG3
 vless://91d233a2-08a8-4006-ac8b-597fb41ea2bb@panke1.dadasoratmolayi.com:443?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@172.66.40.99:80?path=/@v2ray_config
 vless://a34aad27-6d0e-43ab-8e18-0d50fd6a01cf@adf.ly:2052?path=?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-5.RaYaN-5.ClOuDnS.ClUb&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://a39aa2c6-1cf7-448d-9dbd-9ced07638fc9@farest.focusontrade.ir:13455?security=reality&encryption=none&pbk=dSbrtdeQC_EeFfSbq2bvngzThUGvHpz0NIAbO-GQLEg&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=f690e0#@v2rayfast_7❤️‍🔥
 vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
