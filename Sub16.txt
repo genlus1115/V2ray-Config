@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇮🇸@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=&encryption=none&authority=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&type=grpc#🇮🇸@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇧🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&authority=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?security=&encryption=none&type=grpc#@V2ray_confing33
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.213:8880?mode=gun&security=&alpn=h3,h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM:@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=/?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇮🇸TM (@AZARBAYJAB1) GPRS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=&encryption=none&type=grpc#🏴‍☠️@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#@HiByeVPNN❤️‍🔥🔥✨
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#Join Sho : @IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
@@ -503,3 +492,14 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.19.76.13:8880?path=/G8ZDmBYwOAz
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?v2ray_configs_pools_BIA_CHANEL@v2ray_configs_pools&security=tls&encryption=none&host=vngsupply.ip-ddns.com&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Channel-@vmesskhodam
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Channel-@vmesskhodam
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=JdYq2881Un.GhEiChI.oRg&fp=chrome&type=ws&sni=JdYq2881Un.GhEiChI.oRg#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/&security=tls&encryption=none&host=Q9cI2lEeUz.GiTi4.OrG&type=ws&sni=Q9cI2lEeUz.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws&sni=PmQ1cCsP9x.GhEiChI.oRg#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/?Join---v2ray_configs_pools?ed&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws&sni=PmQ1cCsP9x.GhEiChI.oRg#telegram 🍀 v2ray_configs_pools
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#MCI-@V2rayAlpha--19
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#MCI-@V2ray_Alpha--6
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#join Sho @Iran_V2ray1
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#@HiByeVPNN👈⚡❤️‍🔥
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@IRAN_V2RAY1-All
