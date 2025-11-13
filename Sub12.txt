@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#JOIN ➪@FILTERK0SH
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=xhttp#DE 4 🇩🇪 | @TEHRANARGO
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
@@ -503,3 +502,4 @@ vless://b71d62ce-af15-4563-b696-3f971101ebfc@172.66.40.99:8080?path=/Telegram_co
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#All-@V2ray_Alpha--14
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#🇫🇮 | @External_Net
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?security=reality&encryption=none&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=30de9b62dca5142d#All-@V2ray_Alpha--20
+vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&type=ws&sni=nkang2replace.airlineshoma.com#@meli_proxyy
