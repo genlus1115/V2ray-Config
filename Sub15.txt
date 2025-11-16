@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=&encryption=none&authority=@Selinc&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#@HiByeVPNNBot👈🌿💎
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&authority=@Selinc&type=grpc#@Selinc
@@ -502,4 +503,3 @@ vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#🇫🇮3
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#🇫🇮@FreakConfig
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM?ed=2048&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#@meli_proxyy
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM?ed=2048&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#limo
