@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-vless://8a80687e-e66e-4a9e-8529-cf0ed2b96d4e@vip.ezrael.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hddify
 vless://8abcc779-f492-4961-a2c4-e6798317335f@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=hopeforall.com.global.prod.fastly.net&type=xhttp#@NoForcedHeaven
 vless://8ac0bfd0-6704-4185-efcd-0362a4eb97ae@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://8aed7113-4427-4b8a-9d3d-ffe99055bcb4@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.byte-server.ir.&type=httpupgrade#🇩🇪 @v2ngnet
@@ -503,3 +501,5 @@ vless://PishiNetVPN@free.piche.pw:443?security=reality&encryption=none&pbk=EZTa4
 vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn 🎀
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#JOIN ➪@FILTERK0SH
+vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
+vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp#@V2ray_confing33

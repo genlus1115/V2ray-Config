@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
-vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp#@V2ray_confing33
 vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪 telegram@ISVvpn
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
@@ -503,3 +501,5 @@ vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stre
 vless://aa19be6f-4688-4d8c-a796-d02c2a08cb59@V2ngFast.xero-network.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://aa2339ea-3867-4dc2-8de8-59a4b1cce37e@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=hE136.maShkesTan.CoM&fp=chrome&type=ws&sni=hE136.maShkesTan.CoM#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://aa66f3bd-e52d-4898-a22c-e956e076b74f@85.133.236.89:7226?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir#telegram ☂️ v2ray_configs_pools
+vless://aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095?path=/&security=none&encryption=none&host=at1.vless.Sitespeedtest.net.&type=ws#@V2rayNG3
+vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?flow=xtls-rprx-vision&type=tcp&headerType=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=reality&fp=chrome&sni=www.tradingview.com&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&sid=4f#🇩🇪 | @Evay_vpn
