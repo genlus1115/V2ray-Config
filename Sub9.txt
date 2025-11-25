@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎯 v2ray_configs_pools
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server422977785106074358.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎪 v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎯 v2ray_configs_pools
@@ -503,3 +501,5 @@ vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@V2rayaNG3
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#All--@V2rayAlpha--39
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#All-@IRAN_V2RAY1
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#@HiByeVPNN❤️‍🔥🔥✨
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#All--@IRAN_V2RAY1
