@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#@V2rayNG3
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#MTN-@IRAN_V2RAY1
 vless://219aa87f-d772-43ee-9b3d-bb073c276ef6@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
@@ -503,3 +502,4 @@ vless://32fe4f1e-aac0-4341-828f-693a5087e405@vip.mehran2024.ir:23405?security=no
 vless://32fe4f1e-aac0-4341-828f-693a5087e405@vip.mehran2024.ir:23405?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#limo
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=/&security=reality&encryption=none&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&fp=chrome&spx=/&type=xhttp&sni=wiredminds.de&sid=243e#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://33371697-1555-476f-8af5-9841cf276597@cname.proxystore11.news:2087?path=/prx11&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=prx11.proxystore11.news&fp=chrome&type=ws&sni=prx11.proxystore11.news#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.topfornnow.org#@sunflowerplato
@@ -503,3 +502,4 @@ vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@dd6.asalemaraghe.ir:443?path=/&secu
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#@vmessorg
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@vmesskhodam
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?security=reality&encryption=none&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=cf34f84f37#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#🇫🇷[Telegram:NetifyVPN]
